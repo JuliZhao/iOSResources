@@ -1,6 +1,7 @@
 #问题总结
 
 1. 在利用终端安装CocoaPods中遇到如下错误：
+![](image/q1.jpg)
 <br>解决方案在终端输入：
 ```
 	sudo gem install -n /usr/local/bin cocoapods
